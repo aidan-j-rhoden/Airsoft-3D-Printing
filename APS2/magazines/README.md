@@ -3,9 +3,11 @@ This [magazine](https://evike.com/products) didn't fit in the [Snow Wolf M24](ht
 
 ## Build Instructions
 Print with supports, except for in the hole on the bottem where the spring goes.  It doesn't really need it, and it's a pain to clean out.  You may have to trim it up anyway, depending on print quality.
-Also, the magazine may require some sanding here and there. ;)
+Also, the magazine requires some sanding on the face under the holes for the latch.
 
-### Materiels Used/Tested
+### Materiels Used/Tested:
+Protopasta Recycled PLA (tested black only, presumably any other color would still work.)
 * Extruder temp: 215C
 * Bed temp: 60C
-* Cooling fan: 80%
+* 20% - 100% infill
+* Cooling fan 80%
