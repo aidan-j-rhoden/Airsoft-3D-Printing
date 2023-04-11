@@ -8,7 +8,7 @@ The capped-off end is printed down.  No supports or adhesion beds are used.
 ### Materiels Used/Tested:
 ESUN PLA++ (tested white only, presumably any other color would still work.)
 * Extruder temp: 215C
-* Bed temp: 60C
+* Bed temp: 45C
 * 20% - 100% infill
 * Cooling optional
 
@@ -21,6 +21,6 @@ Overture PETG Black
 
 Protopasta Recycled PLA (tested black only, presumably any other color would still work.)
 * Extruder temp: 215C
-* Bed temp: 60C
+* Bed temp: 45C
 * 20% - 100% infill
 * Cooling fan 80%
