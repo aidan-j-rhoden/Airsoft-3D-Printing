@@ -8,6 +8,6 @@ Also, the magazine requires some sanding on the face under the holes for the lat
 ### Materiels Used/Tested:
 Protopasta Recycled PLA (tested black only, presumably any other color would still work.)
 * Extruder temp: 215C
-* Bed temp: 60C
+* Bed temp: 45C
 * 20% - 100% infill
 * Cooling fan 80%
