@@ -8,8 +8,8 @@ The box is not printed with supports.
 After both parts are printed, use superglue to do the rest.
 
 ### Materiels Used/Tested:
-ESUN PLA++, SUNLU PLA+
+ESUN PLA++, SUNLU PLA+, Protopasta Recycled PLA
 * Extruder temp: 200C
-* Bed temp: 60C
+* Bed temp: 45C
 * 100% infill for the clip, whatever you want for the box
 * Cooling fan recomended
